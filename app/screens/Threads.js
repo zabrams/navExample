@@ -7,6 +7,7 @@ import {
 } from 'react-native';
 import {List, ListItem} from 'react-native-elements';
 import {channels} from '../config/data';
+import {NewBadge} from './NewBadge';
 
 class Threads extends Component {
   _onEnterThread = (channel) => {
@@ -26,7 +27,7 @@ class Threads extends Component {
           key={channel.key}
           avatar={{ uri: channel.uri }}
           hideChevron={true}
-          badge={{ value: channel.badge }}
+          badge={{ element: <NewBadge badge={channel.badge}/> }}
           title={channel.title}
           subtitle={channel.subtitle}
           onPress={() => this._onEnterThread(channel)}
