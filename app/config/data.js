@@ -696,21 +696,21 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/faulknermusic/128.jpg"
         },
         {
           "key": "jahskdsadja09344",
           "title": "todos",
           "subtitle": "Buy more dishsoap",
           "badge": 1,
-          "uri": "https://static.pexels.com/photos/8700/wall-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/whale/128.jpg"
         },
         {
           "key": "jahskdsadjastjgjk4",
           "title": "vacations",
           "subtitle": "So when can you take vacation?",
           "badge": null,
-          "uri": "https://static.pexels.com/photos/64057/pexels-photo-64057.jpeg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
     ],
   },
@@ -721,21 +721,21 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
         {
           "key":"aslkdjalksdassdfffjasd",
           "title": "todos",
           "subtitle": "Buy more dishsoap",
           "badge": 1,
-          "uri": "https://static.pexels.com/photos/8700/wall-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
         {
           "key": "alsasddasjkdhjlaskjdiiii",
           "title": "vacations",
           "subtitle": "So when can you take vacation?",
           "badge": 1,
-          "uri": "https://static.pexels.com/photos/64057/pexels-photo-64057.jpeg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/rogie/128.jpg"
         },
     ],
   },
@@ -746,21 +746,21 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 5,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
         {
           "key":"aslkdjalksdassdfffjasd",
           "title": "todos",
           "subtitle": "Buy more dishsoap",
           "badge": 10,
-          "uri": "https://static.pexels.com/photos/8700/wall-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
         {
           "key": "alsasddasjkdhjlaskjdiiii",
           "title": "vacations",
           "subtitle": "So when can you take vacation?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/64057/pexels-photo-64057.jpeg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/rogie/128.jpg"
         },
     ],
   },
@@ -771,21 +771,21 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
         {
           "key":"aslkdjalksdassdfffjasd",
           "title": "todos",
           "subtitle": "Buy more dishsoap",
           "badge": null,
-          "uri": "https://static.pexels.com/photos/8700/wall-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
         {
           "key": "alsasddasjkdhjlaskjdiiii",
           "title": "vacations",
           "subtitle": "So when can you take vacation?",
           "badge": 5,
-          "uri": "https://static.pexels.com/photos/64057/pexels-photo-64057.jpeg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/rogie/128.jpg"
         },
     ],
   },
@@ -796,21 +796,21 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 200,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
         {
           "key":"aslkdjalksdassdfffjasd",
           "title": "todos",
           "subtitle": "Buy more dishsoap",
           "badge": 11,
-          "uri": "https://static.pexels.com/photos/8700/wall-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
         {
           "key": "alsasddasjkdhjlaskjdiiii",
           "title": "vacations",
           "subtitle": "So when can you take vacation?",
           "badge": null,
-          "uri": "https://static.pexels.com/photos/64057/pexels-photo-64057.jpeg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/rogie/128.jpg"
         },
     ],
   },
@@ -821,7 +821,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -832,7 +832,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
     ],
   },
@@ -843,7 +843,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -854,7 +854,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sachagreif/128.jpg"
         },
     ],
   },
@@ -865,7 +865,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -876,7 +876,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -887,7 +887,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -898,7 +898,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -909,7 +909,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -920,7 +920,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -931,7 +931,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
@@ -942,7 +942,7 @@ export const channels = {
           "title": "general",
           "subtitle": "Hey! whats your plan today?",
           "badge": 2,
-          "uri": "https://static.pexels.com/photos/7720/night-animal-dog-pet.jpg"
+          "uri": "https://s3.amazonaws.com/uifaces/faces/twitter/sillyleo/128.jpg"
         },
     ],
   },
