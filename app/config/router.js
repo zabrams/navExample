@@ -4,12 +4,13 @@ import { TabNavigator, StackNavigator } from 'react-navigation';
 import { Icon, Avatar } from 'react-native-elements';
 
 import Feed from '../screens/Feed';
-import Me from '../screens/Me';
-import UserDetail from '../screens/UserDetail';
-import Settings from '../screens/Settings';
+//import Me from '../screens/Me';
+//import UserDetail from '../screens/UserDetail';
+//import Settings from '../screens/Settings';
 import Threads from '../screens/Threads';
 import SelectedThread from '../screens/SelectedThread';
 
+/*
 class MyFeed extends Component {
   static navigationOptions = {
     tabBarLabel: 'Feed',
@@ -36,9 +37,10 @@ class MyProfile extends Component {
     );
   }
 }
+*/
 
 
-export const FeedStack = StackNavigator({
+export const Root = StackNavigator({
   Feed: {
     screen: Feed,
     navigationOptions: {
@@ -109,7 +111,7 @@ export const SettingsStack = StackNavigator({
     },
   },
 });
-*/
+
 
 export const Root = StackNavigator({
   Tabs: {
@@ -122,3 +124,5 @@ export const Root = StackNavigator({
   mode: 'modal',
   headerMode: 'none'
 });
+
+*/
