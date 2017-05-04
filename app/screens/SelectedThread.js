@@ -41,22 +41,16 @@ class SelectedThread extends Component {
   }
 
   _userMessage = (message) => {
+      var userStyle = styles.recipientMessage;
       if(message.name === "Zach") {
-        return (
-          <View style={styles.userMessage}>
+        userStyle = styles.userMessage
+      }
+      return (
+          <View style={userStyle}>
             <Text style={[styles.name, styles.text]}>{message.name}</Text>
             <Text style={styles.text}>{message.message}</Text>
           </View>
         );
-      }
-      else {
-        return(
-          <View style={styles.recipientMessage}>
-            <Text style={[styles.name, styles.text]}>{message.name}</Text>
-            <Text style={styles.text}>{message.message}</Text>
-          </View>
-        );
-      }
   }
 
 

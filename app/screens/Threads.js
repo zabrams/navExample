@@ -21,28 +21,16 @@ class Threads extends Component {
     console.log(userChannels);
 
     renderRow = (channel) => {
-      if(channel.badge > 0) {
-        return (<ListItem
-          roundAvatar
-          key={channel.key}
-          avatar={{ uri: channel.uri }}
-          hideChevron={true}
-          badge={{ element: <NewBadge badge={channel.badge}/> }}
-          title={channel.title}
-          subtitle={channel.subtitle}
-          onPress={() => this._onEnterThread(channel)}
-          />);
-      } else {
-        return (<ListItem
-          roundAvatar
-          key={channel.key}
-          avatar={{ uri: channel.uri }}
-          hideChevron={true}
-          title={channel.title}
-          subtitle={channel.subtitle}
-          onPress={() => this._onEnterThread(channel)}
-          />);
-      }
+      return (<ListItem
+        roundAvatar
+        key={channel.key}
+        avatar={{ uri: channel.uri }}
+        hideChevron={true}
+        badge={{ element: <NewBadge badge={channel.badge}/> }}
+        title={channel.title}
+        subtitle={channel.subtitle}
+        onPress={() => this._onEnterThread(channel)}
+        />);
     }
 
     return (
